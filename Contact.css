@@ -3,12 +3,12 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 437px;
+  min-height: 727px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin-top: 205px;
+  margin-bottom: 60px;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -20,15 +20,16 @@
   font-weight: 700;
   font-family: Oswald, sans-serif;
   width: 315px;
-  margin: 56px auto 0;
+  margin: 7px auto 0;
 }
 
 .u-section-1 .u-text-2 {
   width: 481px;
-  margin: 28px auto 0;
+  margin: 77px auto 0;
 }
 
 .u-section-1 .u-btn-1 {
+  text-decoration: underline !important;
   padding: 0;
 }
 
